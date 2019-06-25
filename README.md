@@ -6,6 +6,9 @@ You can use Python 3.3 or any newer Python with this tutorial.
 
 The tutorial consists of two sections:
 
+## Lecture Slide (Chula)
+https://sites.google.com/a/cp.eng.chula.ac.th/2110101/main-2559/xeksar-kar-sxn
+
 ### Basics
 
 This section will get you started with using Python and you'll be able
@@ -22,3 +25,4 @@ repository instead of downloading a zip and extracting it.
 Credit: 
 1. https://github.com/Akuli/python-tutorial
 2. https://realpython.com/products/python-basics-book/
+3. https://sites.google.com/a/cp.eng.chula.ac.th/2110101/main-2559/xeksar-kar-sxn
